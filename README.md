@@ -1,4 +1,4 @@
 # Jeu des Chiffres et Des Lettres
-
-### Comment jouer :
+=======
+Pour jouer : 
 > python main.py
