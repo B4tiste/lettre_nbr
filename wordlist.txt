@@ -13953,7 +13953,7 @@ Michelin
 mickey
 micmac
 micro
-micro-
+micro
 microbe
 microgrenu
 micro-ordinateur
