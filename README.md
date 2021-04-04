@@ -5,7 +5,7 @@
 
 > cd lettre_nbr
 
-Si vous n'avez pas git installé sur votre appareil, alors installez le répertoire `.zip` du projet grâce au bouton vert `[↓ Code]` en haut à droite.
+Si vous n'avez pas git installé sur votre appareil, alors installez le répertoire `.zip` du projet grâce au bouton vert `[↓Code]` en haut à droite.
 
 ### Pour jouer : 
 > python main.py
