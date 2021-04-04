@@ -13,3 +13,4 @@ Si vous n'avez pas git installé sur votre appareil, alors installez le réperto
 ## But du jeu :
 Entrer une suite de lettres, et le programme cherchera les mots les plus longs existants avec le plus lettres possibles parmis celles que vous lui avez donné.
 
+By [B4tiste](github.com/B4tiste "Go to B4tiste GitHub Page"), *a French guy who doesn't know how to code anything else beside `Hello World`, and who's pretty garbage in English, but who wanna have fun*

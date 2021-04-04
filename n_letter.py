@@ -12,6 +12,8 @@ def analyse(liste_lettre):
     str_dico = f_dico.read()
     str_dico_ori = f_dico.read()
 
+    f_dico.close()
+
     str_dico = str_dico.replace("\n", ',').replace("-", "").lower()
     str_dico_ori = str_dico_ori.replace("\n", ',').lower()
 
@@ -41,8 +43,6 @@ def analyse(liste_lettre):
 
     # print(lst_dico[0:10])
     # print(cpy_dico_sorted[0:10])
-
-    f_dico.close()
 
     # print(str_lettre)
 
