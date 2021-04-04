@@ -6,7 +6,7 @@ import os
 def clear(): return os.system('cls')
 
 
-clear()
+# clear()
 
 if __name__ == "__main__":
 
